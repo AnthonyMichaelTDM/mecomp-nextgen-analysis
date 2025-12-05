@@ -5,11 +5,12 @@ The model is designed to generate meaningful vector embeddings for music, and wi
 
 ## Project Structure
 
-- `Documents/`: Contains all project-related documents, including research papers, project proposals, and reports.
-- `Notebooks/`: Jupyter notebooks used for data exploration, model training, and evaluation.
-- `Scripts/`: Python scripts for data preprocessing, model training, and evaluation.
-- `Models/`: Saved models and checkpoints.
-- `Data/`: Datasets used for training and evaluation (note: large datasets may not be included in the repository), but scripts for downloading or generating them are provided.
+- `documents/`: Contains all project-related documents, including research papers, project proposals, and reports.
+- `notebooks/`: Jupyter notebooks used for data exploration, model training, and evaluation.
+- `scripts/`: Python scripts for data preprocessing, model training, and evaluation.
+- `models/`: Saved models and checkpoints.
+- `data/`: Datasets used for training and evaluation (note: large datasets may not be included in the repository), but scripts for downloading or generating them are provided.
+- `submodules/`: Git submodules for external dependencies or related projects.
 - `README.md`: This file, providing an overview of the project
 - `requirements.txt`: List of Python dependencies required to run the code.
 - `LICENSE`: License information for the project.
