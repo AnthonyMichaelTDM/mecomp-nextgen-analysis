@@ -34,8 +34,8 @@ fma_full() {
     unzip -o fma_full.zip -d fma_full
 }
 
-# download metadata and the medium subset by default
+# download metadata and the small subset by default
 fma_metadata
-fma_medium
+fma_small
 
 cd -
