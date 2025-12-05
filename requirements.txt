@@ -10,3 +10,5 @@ ipywidgets
 notebook
 tqdm
 onnx
+onnxscript
+onnxruntime
