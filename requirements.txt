@@ -5,4 +5,8 @@ numpy
 scikit-learn
 matplotlib
 ipykernel
+jupyter
+ipywidgets
 notebook
+tqdm
+onnx
