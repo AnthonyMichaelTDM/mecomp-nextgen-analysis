@@ -1,6 +1,6 @@
 torch
 torchinfo
-torchviz
+torchview
 tensorboard
 pandas
 numpy
