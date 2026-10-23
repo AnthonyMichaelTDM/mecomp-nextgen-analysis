@@ -1,0 +1,30 @@
+[project]
+name = "mecomp-nextgen-analysis"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Anthony Rubick", email = "68485672+AnthonyMichaelTDM@users.noreply.github.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "ipywidgets>=8.1.9",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.11.2",
+    "notebook>=7.6.3",
+    "numpy>=2.5.4",
+    "onnx>=1.23.2",
+    "onnxruntime>=1.31.0",
+    "onnxscript>=0.7.2",
+    "pandas>=3.1.0",
+    "scikit-learn>=1.9.1",
+    "tensorboard>=2.21.0",
+    "torch>=2.14.1",
+    "torchinfo>=1.8.0",
+    "torchview>=0.2.7",
+    "tqdm>=4.70.1",
+]
+
+[tool.uv]
+package = false
